@@ -2,7 +2,7 @@
 
 # GitHub : https://github.com/King-shoter
 
-# YouTube Channel : ابھی بنایا ہی نہیں 
+# YouTube Channel :not available
 
 import base64
 
